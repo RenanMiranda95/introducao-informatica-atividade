@@ -1,3 +1,24 @@
+renan@DESKTOP-Q658LC9 MINGW64 ~/OneDrive/Área de Trabalho
+$ mkdir atividade-introducao-informatica
+
+renan@DESKTOP-Q658LC9 MINGW64 ~/OneDrive/Área de Trabalho
+$ cd atividade-introducao-informatica
+
+renan@DESKTOP-Q658LC9 MINGW64 ~/OneDrive/Área de Trabalho/atividade-introducao-informatica
+$ git remote add origin https://github.com/RenanMiranda95/introducao-informatica-atividade.git
+fatal: not a git repository (or any of the parent directories): .git
+
+renan@DESKTOP-Q658LC9 MINGW64 ~/OneDrive/Área de Trabalho/atividade-introducao-informatica
+$ git init
+Initialized empty Git repository in C:/Users/renan/OneDrive/Área de Trabalho/atividade-introducao-informatica/.git/
+
+renan@DESKTOP-Q658LC9 MINGW64 ~/OneDrive/Área de Trabalho/atividade-introducao-informatica (master)
+$ git remote add origin https://github.com/RenanMiranda95/introducao-informatica-atividade.git
+
+renan@DESKTOP-Q658LC9 MINGW64 ~/OneDrive/Área de Trabalho/atividade-introducao-informatica (master)
+$ touch README.md
+
+
 edusr@ERusso MINGW64 ~
 $ cd onedrive
 
